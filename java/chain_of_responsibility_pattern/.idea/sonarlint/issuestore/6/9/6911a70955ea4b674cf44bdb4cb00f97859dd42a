@@ -1,0 +1,22 @@
+
+p
+java:S1104"SMake GENERAL a static final constant or non-public and provide accessors if needed.(—Â£ 8™âŸ“ð0
+q
+java:S1104"OMake F_F a static final constant or non-public and provide accessors if needed.(¦¼³Íýÿÿÿÿ8öÔ “ð0
+r
+java:S1104"PMake BULK a static final constant or non-public and provide accessors if needed.(æ”šÄüÿÿÿÿ8íÿ “ð0
+w
+java:S1104
+"UMake nextLogin a static final constant or non-public and provide accessors if needed.(–¥ß·øÿÿÿÿ8Øó¢“ð0
+J
+java:S1444"-Make this "public static GENERAL" field final(—Â£ 8™âŸ“ð0
+K
+java:S1444")Make this "public static F_F" field final(¦¼³Íýÿÿÿÿ8öÔ “ð0
+L
+java:S1444"*Make this "public static BULK" field final(æ”šÄüÿÿÿÿ8íÿ “ð0
+o
+java:S3008"RRename this field "GENERAL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Â£ 8šâŸ“ð0
+p
+java:S3008"NRename this field "F_F" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦¼³Íýÿÿÿÿ8øÔ “ð0
+q
+java:S3008"ORename this field "BULK" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ”šÄüÿÿÿÿ8ïÿ “ð0
